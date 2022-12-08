@@ -1,0 +1,15 @@
+C:\Users\ПУСИК\Desktop\ResultSpecialization\obj\Debug\net6.0\ResultSpecialization.csproj.AssemblyReference.cache
+C:\Users\ПУСИК\Desktop\ResultSpecialization\obj\Debug\net6.0\ResultSpecialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПУСИК\Desktop\ResultSpecialization\obj\Debug\net6.0\ResultSpecialization.AssemblyInfoInputs.cache
+C:\Users\ПУСИК\Desktop\ResultSpecialization\obj\Debug\net6.0\ResultSpecialization.AssemblyInfo.cs
+C:\Users\ПУСИК\Desktop\ResultSpecialization\obj\Debug\net6.0\ResultSpecialization.csproj.CoreCompileInputs.cache
+C:\Users\ПУСИК\Desktop\ResultSpecialization\bin\Debug\net6.0\ResultSpecialization.exe
+C:\Users\ПУСИК\Desktop\ResultSpecialization\bin\Debug\net6.0\ResultSpecialization.deps.json
+C:\Users\ПУСИК\Desktop\ResultSpecialization\bin\Debug\net6.0\ResultSpecialization.runtimeconfig.json
+C:\Users\ПУСИК\Desktop\ResultSpecialization\bin\Debug\net6.0\ResultSpecialization.dll
+C:\Users\ПУСИК\Desktop\ResultSpecialization\bin\Debug\net6.0\ResultSpecialization.pdb
+C:\Users\ПУСИК\Desktop\ResultSpecialization\obj\Debug\net6.0\ResultSpecialization.dll
+C:\Users\ПУСИК\Desktop\ResultSpecialization\obj\Debug\net6.0\refint\ResultSpecialization.dll
+C:\Users\ПУСИК\Desktop\ResultSpecialization\obj\Debug\net6.0\ResultSpecialization.pdb
+C:\Users\ПУСИК\Desktop\ResultSpecialization\obj\Debug\net6.0\ResultSpecialization.genruntimeconfig.cache
+C:\Users\ПУСИК\Desktop\ResultSpecialization\obj\Debug\net6.0\ref\ResultSpecialization.dll
